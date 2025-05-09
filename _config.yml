@@ -19,7 +19,7 @@ url: dengineeringblog.github.io
 baseurl: /telecom_cv
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 twitter_username: jekyllrb
